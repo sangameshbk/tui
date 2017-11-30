@@ -1,0 +1,72 @@
+@import 'fonts.css';
+
+/* TUI - Raleway Font mapping for Cruise Deals -------------------------------------------------------------------------------------------------------*/
+
+@font-face {
+  font-family: 'tui';
+  src: url('tuitype-webfont.eot');
+  src:  url('cd/Raleway-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'tui-light';
+  src: url('TUITypeLt_LATN_W_Rg.eot');
+  src: url('cd/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'tui-bold';
+  src: url('TUIType-bold.eot');
+  src: url('cd/Raleway-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'tui-light-bold';
+  src: url('TUITypeLt_LATN_W_Bd.eot');
+  src: url('cd/Raleway-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'tui-type-light';
+  src: url('TUITypeLt_LATN_W_Rg.eot');
+  src: url('cd/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'tui-type-bold';
+  src: url('TUITypeLt_LATN_W_Bd.eot');
+  src: url('cd/Raleway-SemiBold.ttf') format('truetype');
+}
+
+
+
+
+/* Cruise Deals - Raleway Font definition -------------------------------------------------------------------------------------------------------*/
+
+
+@font-face {
+  font-family: 'raleway';
+  src: url('TUITypeLt_LATN_W_Rg.eot');
+  src: url('cd/Raleway-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'raleway-light';
+  src: url('TUITypeLt_LATN_W_Rg.eot');
+  src: url('cd/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'raleway-bold';
+  src: url('TUIType-bold.eot');
+  src: url('cd/Raleway-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'raleway-light-bold';
+  src: url('TUITypeLt_LATN_W_Bd.eot');
+  src: url('cd/Raleway-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'raleway-type-light';
+  src: url('TUITypeLt_LATN_W_Rg.eot');
+  src: url('cd/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'raleway-type-bold';
+  src: url('TUITypeLt_LATN_W_Bd.eot');
+  src: url('cd/Raleway-SemiBold.ttf') format('truetype');
+}

@@ -1,0 +1,230 @@
+/* TUI - Raleway Font mapping for Cruise Deals -------------------------------------------------------------------------------------------------------*/
+
+/* open-sans-regular - latin */
+
+
+@font-face {
+  font-family: 'tui';
+  font-style: normal;
+  font-weight: 400;
+  src: url('raleway-v11-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'tui-light';
+	src: url('open-sans-v15-latin-regular.eot'); /* IE9 Compat Modes */
+	src: local('Arial'),
+   url('open-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+   url('open-sans-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+   url('open-sans-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+   url('open-sans-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+   url('open-sans-v15-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'tui-bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('raleway-v11-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-700.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'tui-light-bold';
+    font-style: normal;
+  font-weight: 500;
+	src: url('raleway-v11-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-500.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'tui-type-light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('open-sans-v15-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('open-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('open-sans-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('open-sans-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('open-sans-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('open-sans-v15-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'tui-type-bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('raleway-v11-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-700.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+
+
+
+
+/* Cruise Deals - Raleway Font definition -------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* raleway-300 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: url('raleway-v11-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-300.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-300italic - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 300;
+  src: url('raleway-v11-latin-300italic.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-300italic.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-300italic.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-regular - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url('raleway-v11-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-italic - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 400;
+  src: url('raleway-v11-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-italic.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-500 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: url('raleway-v11-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-500.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-500italic - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 500;
+  src: url('raleway-v11-latin-500italic.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-500italic.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-500italic.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-700 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: url('raleway-v11-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-700.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-700italic - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 700;
+  src: url('raleway-v11-latin-700italic.eot'); /* IE9 Compat Modes */
+  src: local('Arial'),
+       url('raleway-v11-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('raleway-v11-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('raleway-v11-latin-700italic.woff') format('woff'), /* Modern Browsers */
+       url('raleway-v11-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('raleway-v11-latin-700italic.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+  font-family: 'icons';
+  src: url('../icons-webfont.eot');
+  src: url('../icons-webfont.eot?#iefix') format('embedded-opentype'), url('../icons-webfont.woff') format('woff'), url('../icons-webfont.ttf') format('truetype'), url('../icons-webfont.svg#webfont') format('svg');
+}
+@font-face {
+  font-family: 'icons-symbol';
+  src: url('../icons.eot');
+  src: url('../icons.eot?#iefix') format('embedded-opentype'), url('../icons.woff') format('woff'), url('../icons.ttf') format('truetype'), url('../icons.svg#webfont') format('svg');
+}
+
+@font-face {
+  font-family: 'icons-v2';
+  src: url('../icons-v2/fonts/icons.eot?55kzd9');
+  src: url('../icons-v2/fonts/icons.eot?55kzd9#iefix') format('embedded-opentype'), url('../icons-v2/fonts/icons.ttf?55kzd9') format('truetype'), url('../icons-v2/fonts/icons.woff?55kzd9') format('woff'), url('../icons-v2/fonts/icons.svg?55kzd9#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icon-v2"],
+[class*=" icon-v2"],
+.icon-v2 {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons-v2' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'code';
+  src: url('../code.eot');
+  src: url('../code.eot?#iefix') format('embedded-opentype'), url('../code.woff') format('woff'), url('../code.ttf') format('truetype'), url('../code.svg#webfont') format('svg');
+}
